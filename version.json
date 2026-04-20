@@ -1,6 +1,6 @@
 {
-    "version_code": 1,
-    "version_name": "1.2",
+    "version_code": 5,
+    "version_name": "1.6",
     "apk_url": "https://yourserver.com/app-v1.2.apk",
     "release_notes": "Bug fix kiya gaya\nNew features add hue",
     "force_update": false
